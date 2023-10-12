@@ -1,0 +1,6 @@
+1. Route setup
+2. Books api data load
+3. Dynamic Data load from diffrent id
+4. Read More Read Less Button Show
+5. loading Show
+6. Error Page Setup
